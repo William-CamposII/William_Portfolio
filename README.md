@@ -1,6 +1,6 @@
-Data Science Portfolio
+Welcome to my project portfolio! 
 
-Welcome to my Data Science portfolio! This repository showcases a collection of projects demonstrating my expertise in data analysis, visualization, and database management. Here’s a brief overview of the tools and technologies I use:
+This repository showcases a variety of projects that demonstrate my skills in SQL, Python, and Tableau. Each project is designed to highlight different aspects of my proficiency in data analysis, data visualization, and data manipulation. Here’s a brief overview of the tools and technologies I use:
 
 Python: Leveraged for data manipulation, cleaning, and analysis using libraries like Pandas and NumPy.
 
@@ -12,4 +12,4 @@ SQL: Demonstrated skills in querying databases, performing data retrieval, and m
 
 Tableau: Showcased dashboards and visualizations created in Tableau to communicate data-driven insights effectively.
 
-Explore the projects to see how these tools come together to solve real-world problems and deliver actionable insights.
+These projects highlight my capability to manage, analyze, and visualize data using advanced programming and visualization tools. Explore the projects to see how these tools come together to solve real-world problems and deliver actionable insights.
